@@ -1,0 +1,7 @@
+admin
+admin
+
+nama databse: simpeg
+url : http://localhost/tubes-simpeg
+
+created by azlan~
